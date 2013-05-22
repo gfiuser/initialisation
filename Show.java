@@ -10,7 +10,7 @@ public class Show {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		final Text text = new Text("yma");
+		final Text text = new Text("t");
 		System.out.println(text.toString());
 	}
 
