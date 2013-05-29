@@ -5,6 +5,7 @@
  * @author ymatagne
  * 
  */
+ 
 public class Text {
 	private final String word;
 
