@@ -13,7 +13,7 @@ public class Text {
 	}
 
 	/**
-	 * @return a word
+	 * @return a word modiftest
 	 */
 	public String getWord() {
 		return word;
