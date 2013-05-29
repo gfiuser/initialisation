@@ -10,7 +10,7 @@ public class Show {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		final Text text = new Text("fco");
+		final Text text = new Text("fda");
 		System.out.println(text.toString());
 	}
 
