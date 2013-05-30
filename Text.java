@@ -6,6 +6,7 @@
  * 
  */
  
+ // Class Text
 public class Text {
 	private final String word;
 
