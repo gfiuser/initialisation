@@ -11,7 +11,7 @@ public class Show {
 	 */
 	public static void main(String[] args) {
 
-		final Text text = new Text("ade");
+		final Text text = new Text("JDS power");
 		System.out.println(text.toString());
 	}
 
