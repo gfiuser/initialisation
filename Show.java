@@ -11,7 +11,7 @@ public class Show {
 	 */
 	public static void main(String[] args) {
 
-		final Text text = new Text("fda");
+		final Text text = new Text("ade");
 		System.out.println(text.toString());
 	}
 
