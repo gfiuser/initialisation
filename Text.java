@@ -7,7 +7,8 @@
  * 
  */
  
- // Class Text
+// Class Text
+// Class Text2
 public class Text {
 	private final String word;
 

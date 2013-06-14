@@ -14,6 +14,7 @@ public class Show {
 		final Text text = new Text("fda");
 		final Text text2 = new Text("pfa");
 		System.out.println(text2.toString());
+		final Text text = new Text("ade");
 		System.out.println(text.toString());
 	}
 
