@@ -9,6 +9,7 @@
  
 // Class Text
 // Class Text2
+// Class Text3
 public class Text {
 	private final String word;
 
