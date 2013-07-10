@@ -14,6 +14,7 @@ public class Text {
 	private final String word;
 
 	public Text(final String word) {
+		// Commentaire VDU
 		this.word = word;
 	}
 
