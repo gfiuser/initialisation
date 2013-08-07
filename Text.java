@@ -3,7 +3,7 @@
  * {@link #Show}
  * 
  * @author ymatagne
- * modifié pfa
+ * modifié gma
  * 
  */
  
@@ -12,7 +12,7 @@ public class Text {
 	private final String word;
 
 	public Text(final String word) {
-		// Commentaire VDU
+		// Commentaire GMA
 		this.word = word;
 	}
 
