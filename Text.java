@@ -12,7 +12,7 @@ public class Text {
 	private final String word;
 
 	public Text(final String word) {
-		// Commentaire GMA
+		// commentaire GMA
 		this.word = word;
 	}
 
