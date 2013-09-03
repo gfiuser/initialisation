@@ -6,6 +6,8 @@
  * modifié hat
  * 
  * modifié mde
+ *
+ * modifié gle
  */
  
 // Class Text
@@ -13,7 +15,7 @@ public class Text {
 	private final String word;
 
 	public Text(final String word) {
-		// commentaire HAT
+		// commentaire GLE
 		this.word = word;
 	}
 
