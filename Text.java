@@ -23,6 +23,7 @@ public class Text {
 	 * @return a word modiftest
 	 */
 	public String getWord() {
+		// commentaire GLE
 		return word;
 	}
 
