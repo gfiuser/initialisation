@@ -3,6 +3,7 @@
  * 
  * @author ymatagne
  * 
+ *modifié GLE
  */
 public class Show {
 
@@ -10,7 +11,7 @@ public class Show {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		final Text text = new Text("MDE");
+		final Text text = new Text("GLE");
 		System.out.println(text.toString());
 	}
 
