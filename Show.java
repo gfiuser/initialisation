@@ -11,7 +11,7 @@ public class Show {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		final Text text = new Text("GLE");
+		final Text text = new Text("SVE");
 		System.out.println(text.toString());
 	}
 
