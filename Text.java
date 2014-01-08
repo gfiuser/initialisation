@@ -10,6 +10,8 @@
  * modifié gle
  *
  * modifié sve
+ *
+ * modifié abn
  */
  
 // Class Text
@@ -18,6 +20,7 @@ public class Text {
 
 	public Text(final String word) {
 		// commentaire GLE
+		// commentaire ABN
 		this.word = word;
 	}
 
@@ -26,6 +29,7 @@ public class Text {
 	 */
 	public String getWord() {
 		// commentaire GLE
+		// commentaire ABN
 		return word;
 	}
 
