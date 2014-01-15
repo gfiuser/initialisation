@@ -11,7 +11,7 @@ public class Show {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		final Text text = new Text("ABN");
+		final Text text = new Text("JVN");
 		System.out.println(text.toString());
 	}
 
