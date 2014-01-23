@@ -23,6 +23,7 @@ public class Text {
 	public Text(final String word) {
 		// commentaire GLE
 		// commentaire JVN
+		// commentaire RBR
 
 		this.word = word;
 	}
