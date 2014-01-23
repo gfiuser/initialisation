@@ -33,6 +33,7 @@ public class Text {
 	public String getWord() {
 		// commentaire GLE
 		// commentaire ABN
+		// commentaire RBR
 		return word;
 	}
 
