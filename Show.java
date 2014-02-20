@@ -3,7 +3,7 @@
  * 
  * @author ymatagne
  * 
- *modifié GLE
+ *modifié MAM
  */
 public class Show {
 
@@ -11,7 +11,7 @@ public class Show {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		final Text text = new Text("RBR");
+		final Text text = new Text("MAM");
 		System.out.println(text.toString());
 	}
 
