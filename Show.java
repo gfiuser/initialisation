@@ -3,7 +3,7 @@
  * 
  * @author ymatagne
  * 
- *modifié MAM
+ *modifié FGO
  */
 public class Show {
 
@@ -11,7 +11,7 @@ public class Show {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		final Text text = new Text("MAM");
+		final Text text = new Text("FGO");
 		System.out.println(text.toString());
 	}
 
