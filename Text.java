@@ -16,6 +16,8 @@
  * modifié jvn
  *
  * modifié mam
+ * 
+ * modifié fgo
  */
  
 // Class Text
