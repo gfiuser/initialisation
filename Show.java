@@ -4,6 +4,7 @@
  * @author ymatagne
  * 
  *modifié FGO
+ *modif LMA
  */
 public class Show {
 
@@ -11,7 +12,7 @@ public class Show {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		final Text text = new Text("FGO");
+		final Text text = new Text("LMA");
 		System.out.println(text.toString());
 	}
 

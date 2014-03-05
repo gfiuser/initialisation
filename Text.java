@@ -18,6 +18,8 @@
  * modifié mam
  * 
  * modifié fgo
+ *
+ * modif lma
  */
  
 // Class Text
@@ -28,6 +30,7 @@ public class Text {
 		// commentaire GLE
 		// commentaire JVN
 		// commentaire RBR
+		// commentaire LMA
 
 		this.word = word;
 	}
@@ -39,6 +42,7 @@ public class Text {
 		// commentaire GLE
 		// commentaire ABN
 		// commentaire RBR
+		// commentaire LMA
 		return word;
 	}
 
