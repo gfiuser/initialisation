@@ -18,6 +18,8 @@
  * modifié mam
  * 
  * modifié fgo
+ * 
+ * modifié lma2
  */
  
 // Class Text
