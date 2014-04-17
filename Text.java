@@ -20,6 +20,8 @@
  * modifié fgo
  * 
  * modifié lma2
+ *
+ * modifié jda
  */
  
 // Class Text
@@ -41,6 +43,7 @@ public class Text {
 		// commentaire GLE
 		// commentaire ABN
 		// commentaire RBR
+		// commentaire JD
 		return word;
 	}
 
