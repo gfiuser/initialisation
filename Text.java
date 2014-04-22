@@ -22,6 +22,8 @@
  * modifié lma2
  *
  * modifié jda
+ *
+ * modifié jbg
  */
  
 // Class Text
